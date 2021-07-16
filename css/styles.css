@@ -1,0 +1,14 @@
+header {
+  background-color: #dda6b9;
+}
+
+.seccion_usuarios {
+  background-color: #e2bab1;
+  min-height: 170px;
+  max-width: 500px;
+  border-radius: 10px;
+}
+
+.contenido_usuario {
+  min-width: 200px;
+}
